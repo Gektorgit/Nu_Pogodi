@@ -1,0 +1,20 @@
+﻿Build started 29.04.2014 20:32:20.
+     1>Project "E:\Шаг\Игра реального времени\Ну погоди\Ну погоди\Ну погоди.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Function_Nu_Pogodi.cpp
+         Function_Nu_Pogodi.cpp
+     1>e:\шаг\игра реального времени\ну погоди\ну погоди\function_nu_pogodi.cpp(22): warning C4309: 'argument' : truncation of constant value
+     1>e:\шаг\игра реального времени\ну погоди\ну погоди\function_nu_pogodi.cpp(25): warning C4309: 'argument' : truncation of constant value
+     1>e:\шаг\игра реального времени\ну погоди\ну погоди\function_nu_pogodi.cpp(254): warning C4309: 'argument' : truncation of constant value
+     1>e:\шаг\игра реального времени\ну погоди\ну погоди\function_nu_pogodi.cpp(263): warning C4309: 'argument' : truncation of constant value
+     1>e:\шаг\игра реального времени\ну погоди\ну погоди\function_nu_pogodi.cpp(272): warning C4309: 'argument' : truncation of constant value
+     1>e:\шаг\игра реального времени\ну погоди\ну погоди\function_nu_pogodi.cpp(281): warning C4309: 'argument' : truncation of constant value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Шаг\Игра реального времени\Ну погоди\Debug\Ну погоди.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Шаг\Игра реального времени\Ну погоди\Debug\Ну погоди.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Шаг\Игра реального времени\Ну погоди\Debug\Ну погоди.lib" /MACHINE:X86 Debug\Function_Nu_Pogodi.obj
+         Debug\Main_Nu_Pogodi.obj
+         Ну погоди.vcxproj -> E:\Шаг\Игра реального времени\Ну погоди\Debug\Ну погоди.exe
+     1>Done Building Project "E:\Шаг\Игра реального времени\Ну погоди\Ну погоди\Ну погоди.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.76
